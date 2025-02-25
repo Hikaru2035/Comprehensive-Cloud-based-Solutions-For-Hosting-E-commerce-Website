@@ -1,7 +1,3 @@
-Here’s a **README.md** file suitable for your project:  
-
----
-
 # **Comprehensive Cloud-Based Solutions for Hosting an E-Commerce Website**  
 
 ## **Project Overview**  
